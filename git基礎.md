@@ -58,3 +58,4 @@ Changes to be committed:
  create mode 100644 first.py
 ```
 ## 上傳到git(未完)
+> $ git push -u origin master
