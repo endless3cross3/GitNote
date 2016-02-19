@@ -34,6 +34,9 @@ print 'Happy'
 或是一次加入全部檔案
 > $ git add --all
 
+或
+> $ git add .
+
 顯示容器中的檔案狀態
 > $ git status
 
@@ -122,3 +125,7 @@ index 0000000..636b16c
 > $ git commit -m '自訂'
 
 > $ git push -u origin master
+
+=============================================
+參考資料
+"版本控制使用Git"
