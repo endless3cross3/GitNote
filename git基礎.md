@@ -117,4 +117,8 @@ index 0000000..636b16c
 +print 'Happy',a
 ```
 ## 上傳到git(未完)
+> $ git add --all
+
+> $ git commit -m '自訂'
+
 > $ git push -u origin master
